@@ -1,6 +1,6 @@
 # TSL2572 library
 
-Used for the TinyCircuits accelerometer-tinyshieldLight Sensor **[Ambient Light Sensor Wireling](https://tinycircuits.com/products/ambient-light-sensor-wireling?_pos=7&_sid=a9b4d2d5f&_ss=r)**, the **[Ambient Light Sensor TinyShield](https://tinycircuits.com/products/ambient-light-tinyshield?_pos=5&_sid=a9b4d2d5f&_ss=r)**, and the **[Combo Sensor TinyShield](https://tinycircuits.com/products/combo-sensor-tinyshield?_pos=8&_sid=a9b4d2d5f&_ss=r)**. 
+Used for TinyCircuits Light Sensor modules: **[Ambient Light Sensor Wireling](https://tinycircuits.com/products/ambient-light-sensor-wireling?_pos=7&_sid=a9b4d2d5f&_ss=r)**, the **[Ambient Light Sensor TinyShield](https://tinycircuits.com/products/ambient-light-tinyshield?_pos=5&_sid=a9b4d2d5f&_ss=r)**, and the **[Combo Sensor TinyShield](https://tinycircuits.com/products/combo-sensor-tinyshield?_pos=8&_sid=a9b4d2d5f&_ss=r)**. 
 
 *Support this library by buying products from **[TinyCircuits](https://tinycircuits.com/)***
 

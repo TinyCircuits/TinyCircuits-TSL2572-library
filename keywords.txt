@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map for TSL2572
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TSL2572		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+registerWrite		kEYWORD2
+init				KEYWORD2
+readAmbientLight 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+GAIN_1X		LITERAL1
+GAIN_8X		LITERAL1
+GAIN_16X	LITERAL1
+GAIN_120X	LITERAL1
